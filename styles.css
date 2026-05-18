@@ -413,7 +413,8 @@ ul li, ol li {
 }
 
 #clustrmaps-container {
-  display: inline-block;
+  display: block;
+  max-width: 600px;
   margin: 10px auto;
 }
 
